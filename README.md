@@ -1,4 +1,4 @@
-**ResuBot: AI-Powered Resume and Career Toolkit**
+#  **ResuBot: AI-Powered Resume and Career Toolkit**
 
 **ResuBot** is an AI-driven web application designed to revolutionize the resume and cover letter creation process, making it personalized, efficient, and accessible. By leveraging advanced technologies such as OpenAI’s GPT-3.5-turbo, ResuBot aims to address the challenges faced by job seekers in crafting tailored, professional resumes and cover letters while streamlining the overall job application process.
 
